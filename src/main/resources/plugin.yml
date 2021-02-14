@@ -1,0 +1,6 @@
+name: PhantasyGateManager
+version: 1.0-SNAPSHOT
+main: phantasygatemanager.phantasygatemanager.PhantasyGateManager
+
+commands:
+  pgm:
